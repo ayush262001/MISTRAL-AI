@@ -1,10 +1,10 @@
 # Concept of Application
 
-1.The application poc was requested by an US based client. 
-2.The application was supposed to accept the multiple files in a queue from frontend and then later the files will be sent to backend.
-3.Once the file will be sent to backend, backend will convert the pdf data into the ocr data using the MISTRAL AI. Later a general function will convert that data into a JSON format for more clear visibility. 
+1.The application poc was requested by an US based client. \
+2.The application was supposed to accept the multiple files in a queue from frontend and then later the files will be sent to backend.\
+3.Once the file will be sent to backend, backend will convert the pdf data into the ocr data using the MISTRAL AI. Later a general function will convert that data into a JSON format for more clear visibility. \
 
-4.Now all the following data will be sent to the frontend and over there the dofference in the actual pdf file content and the JSON format filtered from it will be shown and the match percentage will be shown at the top as given in the image below.
+4.Now all the following data will be sent to the frontend and over there the dofference in the actual pdf file content and the JSON format filtered from it will be shown and the match percentage will be shown at the top as given in the image below.\
 
 ![alt text](<Screenshot (3).png>)
 
