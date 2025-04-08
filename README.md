@@ -1,3 +1,12 @@
+# The application poc was requested by an US based client. 
+# The application was supposed to accept the multiple files in a queue from frontend and then later the files will be sent to backend.
+# Once the file will be sent to backend, backend will convert the pdf data into the ocr data using the MISTRAL AI. Later a general function will convert that data into a JSON format for more clear visibility. 
+
+# Now all the following data will be sent to the frontend and over there the dofference in the actual pdf file content and the JSON format filtered from it will be shown and the match percentage will be shown at the top as given in the image below.
+
+![alt text](<Screenshot (3).png>)
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
